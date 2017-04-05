@@ -1,0 +1,11 @@
+{
+  "name": "will-atom-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Similary chester",
+  "repository": "https://github.com/willemallan/will-atom-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
